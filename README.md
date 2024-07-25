@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yobraking
+- 👀 I’m interested in all things technology!
+- 🌱 I’m currently learning the C# language and the .NET framework.
+- 💞️ I’m looking to collaborate on opensource and personal projects to widen my experience. 
+- 📫 How to reach me reach me on my email masifabrian27@gmail.com
+- 😄 Pronouns: software developer.
+- ⚡ Fun fact: i am kenyan!
